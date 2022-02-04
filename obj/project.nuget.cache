@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwMuR8ZqXlJr+e7+EYGrywu5gGlgn4xAtxgk9Ngq7osrQ3XGfTmf1lq2SybGWyDs64cZsxkH+OeDRnxmxHLl2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\43717830821.INFOSCS\\Desktop\\IA text-to-speech\\IA text-to-speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\43717830821.INFOSCS\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}
